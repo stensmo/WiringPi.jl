@@ -1,0 +1,19 @@
+name = "WiringPi"
+uuid = "56b06491-0088-44d9-858f-9bc194f2c904"
+authors = ["Erik Stensmo "]
+version = "0.1"
+
+[deps]
+
+
+[compat]
+
+
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+
+[targets]
+test = ["Test"]
