@@ -553,9 +553,9 @@ const WPI_ALMOST = 1 == 2
 
 # exports
 for name in names(@__MODULE__; all=true)
-
-    @eval export $name
-
+    if name ∉ ["eval", "include", "#eval", "#include"]
+        @eval export $name
+    end
 end
 
 
