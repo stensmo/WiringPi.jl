@@ -10,7 +10,7 @@ Install Julia by running: curl -fsSL https://install.julialang.org | sh
 Run julia by typing: sudo $HOME/.juliaup/bin/julia
 
 Example:
-'''julia
+```julia
 
 using WiringPi
 
@@ -23,7 +23,7 @@ value = digitalRead(17)
 println("value: $(value)")
 
 
-'''
+```
 
 
 
