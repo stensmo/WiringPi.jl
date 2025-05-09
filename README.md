@@ -52,6 +52,10 @@ using WiringPi
 
 wiringPiSPISetup(0, 1000000)
 
+# Not correct, need to allocate buffer
+myData = Ref{Cuchar}()
+size = 1000 
+
 wiringPiSPIDataRW(0, myData, size)
 
 
