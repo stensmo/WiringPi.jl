@@ -22,7 +22,7 @@ pinMode(17, INPUT);
 pullUpDnControl(17, PUD_DOWN);
 
 value = digitalRead(17)
-println("value: $(value)")
+
 
 
 ```
