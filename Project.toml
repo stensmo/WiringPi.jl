@@ -1,13 +1,13 @@
 name = "WiringPi"
 uuid = "56b06491-0088-44d9-858f-9bc194f2c904"
 authors = ["Erik Stensmo "]
-version = "0.1"
+version = "0.2"
 
 [deps]
 
 
 [compat]
-
+julia = "1.9.4"
 
 
 [extras]
