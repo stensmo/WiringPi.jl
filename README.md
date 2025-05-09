@@ -46,6 +46,15 @@ wiringPiISR(17, INT_EDGE_FALLING, myInterruptC)
 
 ```
 
+SPI
+```julia
+using WiringPi
 
+wiringPiSPISetup(0, 1000000)
+
+wiringPiSPIDataRW(0, myData, size)
+
+
+```
 
 
