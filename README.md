@@ -27,6 +27,24 @@ value = digitalRead(17)
 
 ```
 
+Working with interrupts:
+```julia
+using WiringPi
+
+wiringPiSetupGpio();
+pinMode(17, INPUT);
+pullUpDnControl(17, PUD_UP);
+
+
+function myInterrupt()::Cvoid
+       println("Triggered")
+end
+
+ const myInterruptC = @cfunction(myInterrupt, Cvoid, ())
+
+wiringPiISR(17, INT_EDGE_FALLING, myInterruptC)
+
+```
 
 
 
