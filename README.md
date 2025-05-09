@@ -49,6 +49,7 @@ wiringPiISR(17, INT_EDGE_FALLING, myInterruptC)
 SPI
 ```julia
 using WiringPi
+using Random
 
 wiringPiSPISetup(0, 1000000)
 
@@ -56,8 +57,17 @@ wiringPiSPISetup(0, 1000000)
 myData = Vector{Cuchar}(undef, 4096)
 size = 4096
 
+# Populate the data with some random info. Normally you would not overwrite the vector above.
+myData = rand(UInt8, 4096)
+
+# A copy
+sentData = deepcopy(myData)
+
 wiringPiSPIDataRW(0, myData, size)
 
+# If you connect MOSI to MISO, the buffer will have the same data as sent. Otherwise it will be zeroes
+
+sentData == myData
 
 ```
 
