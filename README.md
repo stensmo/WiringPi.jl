@@ -4,7 +4,7 @@
 
 **NOTE:** You must install the Library WiringPi separately  https://github.com/WiringPi/WiringPi/
 
-**NOTE: ** Will only run on a Raspberry Pi
+**NOTE:** Will only run on a Raspberry Pi
 
 Install Julia by running: curl -fsSL https://install.julialang.org | sh
 
@@ -16,7 +16,7 @@ Example:
 
 using WiringPi
 
-# You can cut & paste simple C-code examples and run it
+# You can cut & paste simple examples in C and run it
 wiringPiSetupGpio();
 pinMode(17, INPUT);
 pullUpDnControl(17, PUD_DOWN);
