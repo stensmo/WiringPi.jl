@@ -550,10 +550,10 @@ const WPI_FATAL = 1 == 1
 
 const WPI_ALMOST = 1 == 2
 
-
+excludes =  [Symbol(:eval), Symbol(:include), Symbol("#eval"), Symbol("#include")]
 # exports
 for name in names(@__MODULE__; all=true)
-    if name ∉ ["eval", "include", "#eval", "#include"]
+    if name ∉ excludes     
         @eval export $name
     end
 end
