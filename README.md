@@ -4,7 +4,7 @@
 
 **NOTE:** You must install the Library WiringPi separately  https://github.com/WiringPi/WiringPi/
 
-**NOTE:** Will only run on a Raspberry Pi
+**NOTE:** Will only run on a Raspberry Pi (tested on a Raspberry Pi 5)
 
 Install Julia by running: curl -fsSL https://install.julialang.org | sh
 
@@ -70,5 +70,8 @@ wiringPiSPIDataRW(0, myData, size)
 sentData == myData
 
 ```
+
+Full example where WiringPi is driving an e-paper display, and draws a diagram using Makie
+
 
 
