@@ -1,7 +1,7 @@
 name = "WiringPi"
 uuid = "56b06491-0088-44d9-858f-9bc194f2c904"
 authors = ["Erik Stensmo "]
-version = "0.2"
+version = "0.3"
 
 [deps]
 WiringPi_jll = "39e6258f-44e5-5edf-b49b-51a5e5bce6ab"
