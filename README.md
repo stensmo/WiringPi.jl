@@ -2,7 +2,7 @@
 
 **NOTE:** You must run Julia as root (or fiddle with permissions), to allow direct memory acces to GPIO. 
 
-**NOTE:** You must install the Library WiringPi separately  https://github.com/WiringPi/WiringPi/
+**NOTE:** More documentation can be found at  https://github.com/WiringPi/WiringPi/
 
 **NOTE:** Will only run on a Raspberry Pi (tested on a Raspberry Pi 5)
 
