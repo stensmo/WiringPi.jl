@@ -1,9 +1,9 @@
 module WiringPi
 
-#using WiringPi_jll
-#export WiringPi_jll
+using WiringPi_jll
+export WiringPi_jll
 
-libwiringPi = "/usr/local/lib/libwiringPi.so"
+
 
 to_c_type(t::Type) = t
 to_c_type_pairs(va_list) = map(enumerate(to_c_type.(va_list))) do (ind, type)
@@ -33,15 +33,15 @@ function piGpioLayoutOops(why)
 end
 
 # automatic type deduction for variadic arguments may not be what you want, please use with caution
-@generated function wiringPiFailure(fatal, message, va_list...)
+@generated function wiringPiFailure(fatal::Cint, message, va_list...)
         :(@ccall(libwiringPi.wiringPiFailure(fatal::Cint, message::Ptr{Cchar}; $(to_c_type_pairs(va_list)...))::Cint))
     end
 
-function wiringPiFindNode(pin)
+function wiringPiFindNode(pin::Cint)
     ccall((:wiringPiFindNode, libwiringPi), Ptr{wiringPiNodeStruct}, (Cint,), pin)
 end
 
-function wiringPiNewNode(pinBase, numPins)
+function wiringPiNewNode(pinBase::Cint, numPins::Cint)
     ccall((:wiringPiNewNode, libwiringPi), Ptr{wiringPiNodeStruct}, (Cint, Cint), pinBase, numPins)
 end
 
@@ -79,11 +79,11 @@ function wiringPiSetupPhys()
     ccall((:wiringPiSetupPhys, libwiringPi), Cint, ())
 end
 
-function wiringPiSetupPinType(pinType)
+function wiringPiSetupPinType(pinType::WPIPinType)
     ccall((:wiringPiSetupPinType, libwiringPi), Cint, (WPIPinType,), pinType)
 end
 
-function wiringPiSetupGpioDevice(pinType)
+function wiringPiSetupGpioDevice(pinType::WPIPinType)
     ccall((:wiringPiSetupGpioDevice, libwiringPi), Cint, (WPIPinType,), pinType)
 end
 
@@ -109,47 +109,47 @@ function wiringPiGpioDeviceGetFd()
     ccall((:wiringPiGpioDeviceGetFd, libwiringPi), Cint, ())
 end
 
-function pinModeAlt(pin, mode)
+function pinModeAlt(pin::Cint, mode::Cint)
     ccall((:pinModeAlt, libwiringPi), Cvoid, (Cint, Cint), pin, mode)
 end
 
-function getPinModeAlt(pin)
+function getPinModeAlt(pin::Cint)
     ccall((:getPinModeAlt, libwiringPi), WPIPinAlt, (Cint,), pin)
 end
 
-function pinMode(pin, mode)
+function pinMode(pin::Cint, mode::Cint)
     ccall((:pinMode, libwiringPi), Cvoid, (Cint, Cint), pin, mode)
 end
 
-function pullUpDnControl(pin, pud)
+function pullUpDnControl(pin::Cint, pud::Cint)
     ccall((:pullUpDnControl, libwiringPi), Cvoid, (Cint, Cint), pin, pud)
 end
 
-function digitalRead(pin)
+function digitalRead(pin::Cint)
     ccall((:digitalRead, libwiringPi), Cint, (Cint,), pin)
 end
 
-function digitalWrite(pin, value)
+function digitalWrite(pin::Cint, value::Cint)
     ccall((:digitalWrite, libwiringPi), Cvoid, (Cint, Cint), pin, value)
 end
 
-function digitalRead8(pin)
+function digitalRead8(pin::Cint)
     ccall((:digitalRead8, libwiringPi), Cuint, (Cint,), pin)
 end
 
-function digitalWrite8(pin, value)
+function digitalWrite8(pin::Cint, value::Cint)
     ccall((:digitalWrite8, libwiringPi), Cvoid, (Cint, Cint), pin, value)
 end
 
-function pwmWrite(pin, value)
+function pwmWrite(pin::Cint, value::Cint)
     ccall((:pwmWrite, libwiringPi), Cvoid, (Cint, Cint), pin, value)
 end
 
-function analogRead(pin)
+function analogRead(pin::Cint)
     ccall((:analogRead, libwiringPi), Cint, (Cint,), pin)
 end
 
-function analogWrite(pin, value)
+function analogWrite(pin::Cint, value::Cint)
     ccall((:analogWrite, libwiringPi), Cvoid, (Cint, Cint), pin, value)
 end
 
@@ -181,43 +181,43 @@ function piRP1Model()
     ccall((:piRP1Model, libwiringPi), Cint, ())
 end
 
-function wpiPinToGpio(wpiPin)
+function wpiPinToGpio(wpiPin::Cint)
     ccall((:wpiPinToGpio, libwiringPi), Cint, (Cint,), wpiPin)
 end
 
-function physPinToGpio(physPin)
+function physPinToGpio(physPin::Cint)
     ccall((:physPinToGpio, libwiringPi), Cint, (Cint,), physPin)
 end
 
-function setPadDrive(group, value)
+function setPadDrive(group::Cint, value::Cint)
     ccall((:setPadDrive, libwiringPi), Cvoid, (Cint, Cint), group, value)
 end
 
-function setPadDrivePin(pin, value)
+function setPadDrivePin(pin::Cint, value::Cint)
     ccall((:setPadDrivePin, libwiringPi), Cvoid, (Cint, Cint), pin, value)
 end
 
-function getAlt(pin)
+function getAlt(pin::Cint)
     ccall((:getAlt, libwiringPi), Cint, (Cint,), pin)
 end
 
-function pwmToneWrite(pin, freq)
+function pwmToneWrite(pin::Cint, freq::Cint)
     ccall((:pwmToneWrite, libwiringPi), Cvoid, (Cint, Cint), pin, freq)
 end
 
-function pwmSetMode(mode)
+function pwmSetMode(mode::Cint)
     ccall((:pwmSetMode, libwiringPi), Cvoid, (Cint,), mode)
 end
 
-function pwmSetRange(range)
+function pwmSetRange(range::Cuint)
     ccall((:pwmSetRange, libwiringPi), Cvoid, (Cuint,), range)
 end
 
-function pwmSetClock(divisor)
+function pwmSetClock(divisor::Cint)
     ccall((:pwmSetClock, libwiringPi), Cvoid, (Cint,), divisor)
 end
 
-function gpioClockSet(pin, freq)
+function gpioClockSet(pin::Cint, freq::Cint)
     ccall((:gpioClockSet, libwiringPi), Cvoid, (Cint, Cint), pin, freq)
 end
 
@@ -229,27 +229,27 @@ function digitalReadByte2()
     ccall((:digitalReadByte2, libwiringPi), Cuint, ())
 end
 
-function digitalWriteByte(value)
+function digitalWriteByte(value::Cint)
     ccall((:digitalWriteByte, libwiringPi), Cvoid, (Cint,), value)
 end
 
-function digitalWriteByte2(value)
+function digitalWriteByte2(value::Cint)
     ccall((:digitalWriteByte2, libwiringPi), Cvoid, (Cint,), value)
 end
 
-function waitForInterrupt(pin, mS)
+function waitForInterrupt(pin::Cint, mS::Cint)
     ccall((:waitForInterrupt, libwiringPi), Cint, (Cint, Cint), pin, mS)
 end
 
-function wiringPiISR(pin, mode, _function)
+function wiringPiISR(pin::Cint, mode::Cint, _function)
     ccall((:wiringPiISR, libwiringPi), Cint, (Cint, Cint, Ptr{Cvoid}), pin, mode, _function)
 end
 
-function wiringPiISRStop(pin)
+function wiringPiISRStop(pin::Cint)
     ccall((:wiringPiISRStop, libwiringPi), Cint, (Cint,), pin)
 end
 
-function waitForInterruptClose(pin)
+function waitForInterruptClose(pin::Cint)
     ccall((:waitForInterruptClose, libwiringPi), Cint, (Cint,), pin)
 end
 
@@ -257,23 +257,23 @@ function piThreadCreate(fn)
     ccall((:piThreadCreate, libwiringPi), Cint, (Ptr{Cvoid},), fn)
 end
 
-function piLock(key)
+function piLock(key::Cint)
     ccall((:piLock, libwiringPi), Cvoid, (Cint,), key)
 end
 
-function piUnlock(key)
+function piUnlock(key::Cint)
     ccall((:piUnlock, libwiringPi), Cvoid, (Cint,), key)
 end
 
-function piHiPri(pri)
+function piHiPri(pri::Cint)
     ccall((:piHiPri, libwiringPi), Cint, (Cint,), pri)
 end
 
-function delay(howLong)
+function delay(howLong::Cuint)
     ccall((:delay, libwiringPi), Cvoid, (Cuint,), howLong)
 end
 
-function delayMicroseconds(howLong)
+function delayMicroseconds(howLong::Cuint)
     ccall((:delayMicroseconds, libwiringPi), Cvoid, (Cuint,), howLong)
 end
 
@@ -287,127 +287,6 @@ end
 
 function piMicros64()
     ccall((:piMicros64, libwiringPi), Culonglong, ())
-end
-
-function wiringPiSPIGetFd(channel)
-    ccall((:wiringPiSPIGetFd, libwiringPi), Cint, (Cint,), channel)
-end
-
-function wiringPiSPIDataRW(channel, data, len)
-    ccall((:wiringPiSPIDataRW, libwiringPi), Cint, (Cint, Ptr{Cuchar}, Cint), channel, data, len)
-end
-
-function wiringPiSPISetupMode(channel, speed, mode)
-    ccall((:wiringPiSPISetupMode, libwiringPi), Cint, (Cint, Cint, Cint), channel, speed, mode)
-end
-
-function wiringPiSPISetup(channel, speed)
-    ccall((:wiringPiSPISetup, libwiringPi), Cint, (Cint, Cint), channel, speed)
-end
-
-function wiringPiSPIClose(channel)
-    ccall((:wiringPiSPIClose, libwiringPi), Cint, (Cint,), channel)
-end
-
-function wiringPiSPIxGetFd(number, channel)
-    ccall((:wiringPiSPIxGetFd, libwiringPi), Cint, (Cint, Cint), number, channel)
-end
-
-function wiringPiSPIxDataRW(number, channel, data, len)
-    ccall((:wiringPiSPIxDataRW, libwiringPi), Cint, (Cint, Cint, Ptr{Cuchar}, Cint), number, channel, data, len)
-end
-
-function wiringPiSPIxSetupMode(number, channel, speed, mode)
-    ccall((:wiringPiSPIxSetupMode, libwiringPi), Cint, (Cint, Cint, Cint, Cint), number, channel, speed, mode)
-end
-
-function wiringPiSPIxSetup(number, channel, speed)
-    ccall((:wiringPiSPIxSetup, libwiringPi), Cint, (Cint, Cint, Cint), number, channel, speed)
-end
-
-function wiringPiSPIxClose(number, channel)
-    ccall((:wiringPiSPIxClose, libwiringPi), Cint, (Cint, Cint), number, channel)
-end
-
-function serialOpen(device, baud)
-    ccall((:serialOpen, libwiringPi), Cint, (Ptr{Cchar}, Cint), device, baud)
-end
-
-function serialClose(fd)
-    ccall((:serialClose, libwiringPi), Cvoid, (Cint,), fd)
-end
-
-function serialFlush(fd)
-    ccall((:serialFlush, libwiringPi), Cvoid, (Cint,), fd)
-end
-
-function serialPutchar(fd, c)
-    ccall((:serialPutchar, libwiringPi), Cvoid, (Cint, Cuchar), fd, c)
-end
-
-function serialPuts(fd, s)
-    ccall((:serialPuts, libwiringPi), Cvoid, (Cint, Ptr{Cchar}), fd, s)
-end
-
-# automatic type deduction for variadic arguments may not be what you want, please use with caution
-@generated function serialPrintf(fd, message, va_list...)
-        :(@ccall(libwiringPi.serialPrintf(fd::Cint, message::Ptr{Cchar}; $(to_c_type_pairs(va_list)...))::Cvoid))
-    end
-
-function serialDataAvail(fd)
-    ccall((:serialDataAvail, libwiringPi), Cint, (Cint,), fd)
-end
-
-function serialGetchar(fd)
-    ccall((:serialGetchar, libwiringPi), Cint, (Cint,), fd)
-end
-
-function wiringPiI2CRead(fd)
-    ccall((:wiringPiI2CRead, libwiringPi), Cint, (Cint,), fd)
-end
-
-function wiringPiI2CReadReg8(fd, reg)
-    ccall((:wiringPiI2CReadReg8, libwiringPi), Cint, (Cint, Cint), fd, reg)
-end
-
-function wiringPiI2CReadReg16(fd, reg)
-    ccall((:wiringPiI2CReadReg16, libwiringPi), Cint, (Cint, Cint), fd, reg)
-end
-
-function wiringPiI2CReadBlockData(fd, reg, values, size)
-    ccall((:wiringPiI2CReadBlockData, libwiringPi), Cint, (Cint, Cint, Ptr{UInt8}, UInt8), fd, reg, values, size)
-end
-
-function wiringPiI2CRawRead(fd, values, size)
-    ccall((:wiringPiI2CRawRead, libwiringPi), Cint, (Cint, Ptr{UInt8}, UInt8), fd, values, size)
-end
-
-function wiringPiI2CWrite(fd, data)
-    ccall((:wiringPiI2CWrite, libwiringPi), Cint, (Cint, Cint), fd, data)
-end
-
-function wiringPiI2CWriteReg8(fd, reg, data)
-    ccall((:wiringPiI2CWriteReg8, libwiringPi), Cint, (Cint, Cint, Cint), fd, reg, data)
-end
-
-function wiringPiI2CWriteReg16(fd, reg, data)
-    ccall((:wiringPiI2CWriteReg16, libwiringPi), Cint, (Cint, Cint, Cint), fd, reg, data)
-end
-
-function wiringPiI2CWriteBlockData(fd, reg, values, size)
-    ccall((:wiringPiI2CWriteBlockData, libwiringPi), Cint, (Cint, Cint, Ptr{UInt8}, UInt8), fd, reg, values, size)
-end
-
-function wiringPiI2CRawWrite(fd, values, size)
-    ccall((:wiringPiI2CRawWrite, libwiringPi), Cint, (Cint, Ptr{UInt8}, UInt8), fd, values, size)
-end
-
-function wiringPiI2CSetupInterface(device, devId)
-    ccall((:wiringPiI2CSetupInterface, libwiringPi), Cint, (Ptr{Cchar}, Cint), device, devId)
-end
-
-function wiringPiI2CSetup(devId)
-    ccall((:wiringPiI2CSetup, libwiringPi), Cint, (Cint,), devId)
 end
 
 const TRUE = 1 == 1
@@ -550,13 +429,12 @@ const WPI_FATAL = 1 == 1
 
 const WPI_ALMOST = 1 == 2
 
-excludes =  [Symbol(:eval), Symbol(:include), Symbol("#eval"), Symbol("#include")]
 # exports
-for name in names(@__MODULE__; all=true)
-    if name ∉ excludes     
+const PREFIXES = ["wiringPi"]
+for name in names(@__MODULE__; all=true), prefix in PREFIXES
+    if startswith(string(name), prefix)
         @eval export $name
     end
 end
-
 
 end # module
