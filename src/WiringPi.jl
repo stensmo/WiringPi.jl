@@ -430,9 +430,10 @@ const WPI_FATAL = 1 == 1
 const WPI_ALMOST = 1 == 2
 
 # exports
-const PREFIXES = ["wiringPi"]
-for name in names(@__MODULE__; all=true), prefix in PREFIXES
-    if startswith(string(name), prefix)
+excludes =  [Symbol(:eval), Symbol(:include), Symbol("#eval"), Symbol("#include")]
+# exports
+for name in names(@__MODULE__; all=true)
+    if name ∉ excludes     
         @eval export $name
     end
 end
