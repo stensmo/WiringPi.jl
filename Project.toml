@@ -7,7 +7,7 @@ version = "0.3"
 WiringPi_jll = "39e6258f-44e5-5edf-b49b-51a5e5bce6ab"
 
 [compat]
-WiringPi_jll = "3.14"
+WiringPi_jll = "0.3.0"
 
 
 [extras]
