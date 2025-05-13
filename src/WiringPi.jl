@@ -3,7 +3,7 @@ module WiringPi
 using WiringPi_jll
 export WiringPi_jll
 
-
+const libwiringPi = WiringPi_jll.wiringPi
 
 to_c_type(t::Type) = t
 to_c_type_pairs(va_list) = map(enumerate(to_c_type.(va_list))) do (ind, type)
