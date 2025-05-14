@@ -1,6 +1,6 @@
 # SFTPClient API Documentation
 
 ```@autodocs
-Modules = [SFTPClient]
+Modules = [WiringPi]
 Private = false
 ```
