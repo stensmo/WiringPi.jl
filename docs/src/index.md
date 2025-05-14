@@ -41,7 +41,7 @@ Install by running:
 import Pkg;Pkg.add("WiringPi")
 ```
 
-## SFTPClient Examples
+## WiringPi Examples
 
 ```julia
 
