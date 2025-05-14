@@ -41,7 +41,7 @@ import Pkg;Pkg.add("WiringPi")
 ```
 
 
-## SFTPClient Examples {#SFTPClient-Examples}
+## WiringPi Examples {#WiringPi-Examples}
 
 ```julia
 
