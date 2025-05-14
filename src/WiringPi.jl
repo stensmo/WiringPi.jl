@@ -1,18 +1,139 @@
 module WiringPi
 
 using WiringPi_jll
-
-
 export WiringPi_jll
 
 if WiringPi_jll.is_available()
-
-const libwiringPi = WiringPi_jll.wiringPi
+    const libwiringPi = WiringPi_jll.wiringPi
 end
 
 to_c_type(t::Type) = t
 to_c_type_pairs(va_list) = map(enumerate(to_c_type.(va_list))) do (ind, type)
     :(va_list[$ind]::$type)
+end
+
+function ads1115Setup(pinBase, i2cAddress)
+    ccall((:ads1115Setup, libwiringPi), Cint, (Cint, Cint), pinBase, i2cAddress)
+end
+
+function bmp180Setup(pinBase)
+    ccall((:bmp180Setup, libwiringPi), Cint, (Cint,), pinBase)
+end
+
+function drcSetupNet(pinBase, numPins, ipAddress, port, password)
+    ccall((:drcSetupNet, libwiringPi), Cint, (Cint, Cint, Ptr{Cchar}, Ptr{Cchar}, Ptr{Cchar}), pinBase, numPins, ipAddress, port, password)
+end
+
+function drcSetupSerial(pinBase, numPins, device, baud)
+    ccall((:drcSetupSerial, libwiringPi), Cint, (Cint, Cint, Ptr{Cchar}, Cint), pinBase, numPins, device, baud)
+end
+
+function ds18b20Setup(pinBase, serialNum)
+    ccall((:ds18b20Setup, libwiringPi), Cint, (Cint, Ptr{Cchar}), pinBase, serialNum)
+end
+
+function htu21dSetup(pinBase)
+    ccall((:htu21dSetup, libwiringPi), Cint, (Cint,), pinBase)
+end
+
+function max31855Setup(pinBase, spiChannel)
+    ccall((:max31855Setup, libwiringPi), Cint, (Cint, Cint), pinBase, spiChannel)
+end
+
+function max5322Setup(pinBase, spiChannel)
+    ccall((:max5322Setup, libwiringPi), Cint, (Cint, Cint), pinBase, spiChannel)
+end
+
+function mcp23008Setup(pinBase, i2cAddress)
+    ccall((:mcp23008Setup, libwiringPi), Cint, (Cint, Cint), pinBase, i2cAddress)
+end
+
+function mcp23016Setup(pinBase, i2cAddress)
+    ccall((:mcp23016Setup, libwiringPi), Cint, (Cint, Cint), pinBase, i2cAddress)
+end
+
+function mcp23017Setup(pinBase, i2cAddress)
+    ccall((:mcp23017Setup, libwiringPi), Cint, (Cint, Cint), pinBase, i2cAddress)
+end
+
+function mcp23s08Setup(pinBase, spiPort, devId)
+    ccall((:mcp23s08Setup, libwiringPi), Cint, (Cint, Cint, Cint), pinBase, spiPort, devId)
+end
+
+function mcp23s17Setup(pinBase, spiPort, devId)
+    ccall((:mcp23s17Setup, libwiringPi), Cint, (Cint, Cint, Cint), pinBase, spiPort, devId)
+end
+
+function mcp3002Setup(pinBase, spiChannel)
+    ccall((:mcp3002Setup, libwiringPi), Cint, (Cint, Cint), pinBase, spiChannel)
+end
+
+function mcp3004Setup(pinBase, spiChannel)
+    ccall((:mcp3004Setup, libwiringPi), Cint, (Cint, Cint), pinBase, spiChannel)
+end
+
+function mcp3422Setup(pinBase, i2cAddress, sampleRate, gain)
+    ccall((:mcp3422Setup, libwiringPi), Cint, (Cint, Cint, Cint, Cint), pinBase, i2cAddress, sampleRate, gain)
+end
+
+function mcp4802Setup(pinBase, spiChannel)
+    ccall((:mcp4802Setup, libwiringPi), Cint, (Cint, Cint), pinBase, spiChannel)
+end
+
+function pcf8574Setup(pinBase, i2cAddress)
+    ccall((:pcf8574Setup, libwiringPi), Cint, (Cint, Cint), pinBase, i2cAddress)
+end
+
+function pcf8591Setup(pinBase, i2cAddress)
+    ccall((:pcf8591Setup, libwiringPi), Cint, (Cint, Cint), pinBase, i2cAddress)
+end
+
+function pseudoPinsSetup(pinBase)
+    ccall((:pseudoPinsSetup, libwiringPi), Cint, (Cint,), pinBase)
+end
+
+function rht03Setup(pinBase, devicePin)
+    ccall((:rht03Setup, libwiringPi), Cint, (Cint, Cint), pinBase, devicePin)
+end
+
+function sn3218Setup(pinBase)
+    ccall((:sn3218Setup, libwiringPi), Cint, (Cint,), pinBase)
+end
+
+function softPwmCreate(pin, value, range)
+    ccall((:softPwmCreate, libwiringPi), Cint, (Cint, Cint, Cint), pin, value, range)
+end
+
+function softPwmWrite(pin, value)
+    ccall((:softPwmWrite, libwiringPi), Cvoid, (Cint, Cint), pin, value)
+end
+
+function softPwmStop(pin)
+    ccall((:softPwmStop, libwiringPi), Cvoid, (Cint,), pin)
+end
+
+function softServoWrite(pin, value)
+    ccall((:softServoWrite, libwiringPi), Cvoid, (Cint, Cint), pin, value)
+end
+
+function softServoSetup(p0, p1, p2, p3, p4, p5, p6, p7)
+    ccall((:softServoSetup, libwiringPi), Cint, (Cint, Cint, Cint, Cint, Cint, Cint, Cint, Cint), p0, p1, p2, p3, p4, p5, p6, p7)
+end
+
+function softToneCreate(pin)
+    ccall((:softToneCreate, libwiringPi), Cint, (Cint,), pin)
+end
+
+function softToneStop(pin)
+    ccall((:softToneStop, libwiringPi), Cvoid, (Cint,), pin)
+end
+
+function softToneWrite(pin, freq)
+    ccall((:softToneWrite, libwiringPi), Cvoid, (Cint, Cint), pin, freq)
+end
+
+function sr595Setup(pinBase, numPins, dataPin, clockPin, latchPin)
+    ccall((:sr595Setup, libwiringPi), Cint, (Cint, Cint, Cint, Cint, Cint), pinBase, numPins, dataPin, clockPin, latchPin)
 end
 
 struct wiringPiNodeStruct
@@ -294,6 +415,58 @@ function piMicros64()
     ccall((:piMicros64, libwiringPi), Culonglong, ())
 end
 
+function wiringPiI2CRead(fd)
+    ccall((:wiringPiI2CRead, libwiringPi), Cint, (Cint,), fd)
+end
+
+function wiringPiI2CReadReg8(fd, reg)
+    ccall((:wiringPiI2CReadReg8, libwiringPi), Cint, (Cint, Cint), fd, reg)
+end
+
+function wiringPiI2CReadReg16(fd, reg)
+    ccall((:wiringPiI2CReadReg16, libwiringPi), Cint, (Cint, Cint), fd, reg)
+end
+
+function wiringPiI2CReadBlockData(fd, reg, values, size)
+    ccall((:wiringPiI2CReadBlockData, libwiringPi), Cint, (Cint, Cint, Ptr{UInt8}, UInt8), fd, reg, values, size)
+end
+
+function wiringPiI2CRawRead(fd, values, size)
+    ccall((:wiringPiI2CRawRead, libwiringPi), Cint, (Cint, Ptr{UInt8}, UInt8), fd, values, size)
+end
+
+function wiringPiI2CWrite(fd, data)
+    ccall((:wiringPiI2CWrite, libwiringPi), Cint, (Cint, Cint), fd, data)
+end
+
+function wiringPiI2CWriteReg8(fd, reg, data)
+    ccall((:wiringPiI2CWriteReg8, libwiringPi), Cint, (Cint, Cint, Cint), fd, reg, data)
+end
+
+function wiringPiI2CWriteReg16(fd, reg, data)
+    ccall((:wiringPiI2CWriteReg16, libwiringPi), Cint, (Cint, Cint, Cint), fd, reg, data)
+end
+
+function wiringPiI2CWriteBlockData(fd, reg, values, size)
+    ccall((:wiringPiI2CWriteBlockData, libwiringPi), Cint, (Cint, Cint, Ptr{UInt8}, UInt8), fd, reg, values, size)
+end
+
+function wiringPiI2CRawWrite(fd, values, size)
+    ccall((:wiringPiI2CRawWrite, libwiringPi), Cint, (Cint, Ptr{UInt8}, UInt8), fd, values, size)
+end
+
+function wiringPiI2CSetupInterface(device, devId)
+    ccall((:wiringPiI2CSetupInterface, libwiringPi), Cint, (Ptr{Cchar}, Cint), device, devId)
+end
+
+function wiringPiI2CSetup(devId)
+    ccall((:wiringPiI2CSetup, libwiringPi), Cint, (Cint,), devId)
+end
+
+function GetPiRevisionLegacy(line, linelength, revision)
+    ccall((:GetPiRevisionLegacy, libwiringPi), Ptr{Cchar}, (Ptr{Cchar}, Cint, Ptr{Cuint}), line, linelength, revision)
+end
+
 function wiringPiSPIGetFd(channel)
     ccall((:wiringPiSPIGetFd, libwiringPi), Cint, (Cint,), channel)
 end
@@ -367,53 +540,219 @@ function serialGetchar(fd)
     ccall((:serialGetchar, libwiringPi), Cint, (Cint,), fd)
 end
 
-function wiringPiI2CRead(fd)
-    ccall((:wiringPiI2CRead, libwiringPi), Cint, (Cint,), fd)
+function shiftIn(dPin, cPin, order)
+    ccall((:shiftIn, libwiringPi), UInt8, (UInt8, UInt8, UInt8), dPin, cPin, order)
 end
 
-function wiringPiI2CReadReg8(fd, reg)
-    ccall((:wiringPiI2CReadReg8, libwiringPi), Cint, (Cint, Cint), fd, reg)
+function shiftOut(dPin, cPin, order, val)
+    ccall((:shiftOut, libwiringPi), Cvoid, (UInt8, UInt8, UInt8, UInt8), dPin, cPin, order, val)
 end
 
-function wiringPiI2CReadReg16(fd, reg)
-    ccall((:wiringPiI2CReadReg16, libwiringPi), Cint, (Cint, Cint), fd, reg)
+function loadWPiExtension(progName, extensionData, verbose)
+    ccall((:loadWPiExtension, libwiringPi), Cint, (Ptr{Cchar}, Ptr{Cchar}, Cint), progName, extensionData, verbose)
 end
 
-function wiringPiI2CReadBlockData(fd, reg, values, size)
-    ccall((:wiringPiI2CReadBlockData, libwiringPi), Cint, (Cint, Cint, Ptr{UInt8}, UInt8), fd, reg, values, size)
-end
+const ADS1115_GAIN_6 = 0
 
-function wiringPiI2CRawRead(fd, values, size)
-    ccall((:wiringPiI2CRawRead, libwiringPi), Cint, (Cint, Ptr{UInt8}, UInt8), fd, values, size)
-end
+const ADS1115_GAIN_4 = 1
 
-function wiringPiI2CWrite(fd, data)
-    ccall((:wiringPiI2CWrite, libwiringPi), Cint, (Cint, Cint), fd, data)
-end
+const ADS1115_GAIN_2 = 2
 
-function wiringPiI2CWriteReg8(fd, reg, data)
-    ccall((:wiringPiI2CWriteReg8, libwiringPi), Cint, (Cint, Cint, Cint), fd, reg, data)
-end
+const ADS1115_GAIN_1 = 3
 
-function wiringPiI2CWriteReg16(fd, reg, data)
-    ccall((:wiringPiI2CWriteReg16, libwiringPi), Cint, (Cint, Cint, Cint), fd, reg, data)
-end
+const ADS1115_GAIN_HALF = 4
 
-function wiringPiI2CWriteBlockData(fd, reg, values, size)
-    ccall((:wiringPiI2CWriteBlockData, libwiringPi), Cint, (Cint, Cint, Ptr{UInt8}, UInt8), fd, reg, values, size)
-end
+const ADS1115_GAIN_QUARTER = 5
 
-function wiringPiI2CRawWrite(fd, values, size)
-    ccall((:wiringPiI2CRawWrite, libwiringPi), Cint, (Cint, Ptr{UInt8}, UInt8), fd, values, size)
-end
+const ADS1115_DR_8 = 0
 
-function wiringPiI2CSetupInterface(device, devId)
-    ccall((:wiringPiI2CSetupInterface, libwiringPi), Cint, (Ptr{Cchar}, Cint), device, devId)
-end
+const ADS1115_DR_16 = 1
 
-function wiringPiI2CSetup(devId)
-    ccall((:wiringPiI2CSetup, libwiringPi), Cint, (Cint,), devId)
-end
+const ADS1115_DR_32 = 2
+
+const ADS1115_DR_64 = 3
+
+const ADS1115_DR_128 = 4
+
+const ADS1115_DR_250 = 5
+
+const ADS1115_DR_475 = 6
+
+const ADS1115_DR_860 = 7
+
+const MCP23016_GP0 = 0x00
+
+const MCP23016_GP1 = 0x01
+
+const MCP23016_OLAT0 = 0x02
+
+const MCP23016_OLAT1 = 0x03
+
+const MCP23016_IPOL0 = 0x04
+
+const MCP23016_IPOL1 = 0x05
+
+const MCP23016_IODIR0 = 0x06
+
+const MCP23016_IODIR1 = 0x07
+
+const MCP23016_INTCAP0 = 0x08
+
+const MCP23016_INTCAP1 = 0x09
+
+const MCP23016_IOCON0 = 0x0a
+
+const MCP23016_IOCON1 = 0x0b
+
+const IOCON_IARES = 0x01
+
+const IOCON_INIT = 0
+
+const IODIRA = 0x00
+
+const IPOLA = 0x02
+
+const GPINTENA = 0x04
+
+const DEFVALA = 0x06
+
+const INTCONA = 0x08
+
+const IOCON = 0x0a
+
+const GPPUA = 0x0c
+
+const INTFA = 0x0e
+
+const INTCAPA = 0x10
+
+const GPIOA = 0x12
+
+const OLATA = 0x14
+
+const IODIRB = 0x01
+
+const IPOLB = 0x03
+
+const GPINTENB = 0x05
+
+const DEFVALB = 0x07
+
+const INTCONB = 0x09
+
+const IOCONB = 0x0b
+
+const GPPUB = 0x0d
+
+const INTFB = 0x0f
+
+const INTCAPB = 0x11
+
+const GPIOB = 0x13
+
+const OLATB = 0x15
+
+const IOCON_UNUSED = 0x01
+
+const IOCON_INTPOL = 0x02
+
+const IOCON_ODR = 0x04
+
+const IOCON_HAEN = 0x08
+
+const IOCON_DISSLW = 0x10
+
+const IOCON_SEQOP = 0x20
+
+const IOCON_MIRROR = 0x40
+
+const IOCON_BANK_MODE = 0x80
+
+const CMD_WRITE = 0x40
+
+const CMD_READ = 0x41
+
+const MCP23x08_IODIR = 0x00
+
+const MCP23x08_IPOL = 0x01
+
+const MCP23x08_GPINTEN = 0x02
+
+const MCP23x08_DEFVAL = 0x03
+
+const MCP23x08_INTCON = 0x04
+
+const MCP23x08_IOCON = 0x05
+
+const MCP23x08_GPPU = 0x06
+
+const MCP23x08_INTF = 0x07
+
+const MCP23x08_INTCAP = 0x08
+
+const MCP23x08_GPIO = 0x09
+
+const MCP23x08_OLAT = 0x0a
+
+const MCP23x17_IODIRA = 0x00
+
+const MCP23x17_IPOLA = 0x02
+
+const MCP23x17_GPINTENA = 0x04
+
+const MCP23x17_DEFVALA = 0x06
+
+const MCP23x17_INTCONA = 0x08
+
+const MCP23x17_IOCON = 0x0a
+
+const MCP23x17_GPPUA = 0x0c
+
+const MCP23x17_INTFA = 0x0e
+
+const MCP23x17_INTCAPA = 0x10
+
+const MCP23x17_GPIOA = 0x12
+
+const MCP23x17_OLATA = 0x14
+
+const MCP23x17_IODIRB = 0x01
+
+const MCP23x17_IPOLB = 0x03
+
+const MCP23x17_GPINTENB = 0x05
+
+const MCP23x17_DEFVALB = 0x07
+
+const MCP23x17_INTCONB = 0x09
+
+const MCP23x17_IOCONB = 0x0b
+
+const MCP23x17_GPPUB = 0x0d
+
+const MCP23x17_INTFB = 0x0f
+
+const MCP23x17_INTCAPB = 0x11
+
+const MCP23x17_GPIOB = 0x13
+
+const MCP23x17_OLATB = 0x15
+
+const MCP3422_SR_240 = 0
+
+const MCP3422_SR_60 = 1
+
+const MCP3422_SR_15 = 2
+
+const MCP3422_SR_3_75 = 3
+
+const MCP3422_GAIN_1 = 0
+
+const MCP3422_GAIN_2 = 1
+
+const MCP3422_GAIN_4 = 2
+
+const MCP3422_GAIN_8 = 3
 
 const TRUE = 1 == 1
 
@@ -555,6 +894,10 @@ const WPI_FATAL = 1 == 1
 
 const WPI_ALMOST = 1 == 2
 
+const LSBFIRST = 0
+
+const MSBFIRST = 1
+
 excludes =  [Symbol(:eval), Symbol(:include), Symbol("#eval"), Symbol("#include")]
 # exports
 for name in names(@__MODULE__; all=true)
@@ -562,6 +905,5 @@ for name in names(@__MODULE__; all=true)
         @eval export $name
     end
 end
-
 
 end # module
