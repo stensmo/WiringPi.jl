@@ -1,4 +1,4 @@
-using SFTPClient
+using WiringPi
 using Documenter, DocumenterVitepress
 
 
@@ -10,13 +10,13 @@ pages = [
 
 
 makedocs(; 
-    sitename = "Julia SFTP Client Documentation", 
+    sitename = "Julia WiringPi", 
     authors = "Erik Stensmo",
-    modules = [SFTPClient],
+    modules = [WiringPi],
     warnonly = true,
     checkdocs=:all,
     format=DocumenterVitepress.MarkdownVitepress(
-        repo = "github.com/stensmo/SFTPClient.jl", # this must be the full URL!
+        repo = "github.com/stensmo/WiringPi.jl", # this must be the full URL!
  
     ),
     pages=pages,
@@ -26,4 +26,4 @@ makedocs(;
 
    
 
-deploydocs(; repo="github.com/stensmo/SFTPClient.jl")
+deploydocs(; repo="github.com/stensmo/WiringPi.jl")
