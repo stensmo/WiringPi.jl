@@ -4,7 +4,7 @@
 
 **NOTE:** More documentation can be found at  https://github.com/WiringPi/WiringPi/
 
-**NOTE:** Will only run on a Raspberry Pi (tested on a Raspberry Pi 5)
+**NOTE:** Will only run on a Raspberry Pi (tested on a Raspberry Pi 5). Remember to enable SPI and I2C using "sudo raspi-config".
 
 Install Julia by running: curl -fsSL https://install.julialang.org | sh
 
