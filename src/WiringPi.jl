@@ -3,7 +3,6 @@ module WiringPi
 using WiringPi_jll
 export WiringPi_jll
 
-
 if WiringPi_jll.is_available()
     const libwiringPi = WiringPi_jll.wiringPi
 end
@@ -323,6 +322,7 @@ $(_doc_external(:piGpioLayoutOops))
 function piGpioLayoutOops(why)
     ccall((:piGpioLayoutOops, libwiringPi), Cvoid, (Ptr{Cchar},), why)
 end
+
 
 # automatic type deduction for variadic arguments may not be what you want, please use with caution
 @generated function wiringPiFailure(fatal, message, va_list...)
@@ -2049,6 +2049,7 @@ $(_doc_external(:MSBFIRST))
 """
 const MSBFIRST = 1
 
+# exports
 excludes =  [Symbol(:eval), Symbol(:include), Symbol("#eval"), Symbol("#include")]
 # exports
 for name in names(@__MODULE__; all=true)
