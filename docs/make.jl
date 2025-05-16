@@ -23,7 +23,4 @@ makedocs(;
 )
 
 
-
-   
-
-deploydocs(; repo="github.com/stensmo/WiringPi.jl")
+DocumenterVitepress.deploydocs(; repo="github.com/stensmo/WiringPi.jl")
