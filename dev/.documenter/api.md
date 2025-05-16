@@ -6,7 +6,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1235" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1235" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -16,7 +16,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1220" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1220" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -26,7 +26,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1240" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1240" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -36,7 +36,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1225" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1225" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -46,7 +46,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1245" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1245" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -56,7 +56,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1230" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1230" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -66,7 +66,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1215" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1215" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -76,7 +76,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1250" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1250" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -86,7 +86,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1200" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1200" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -96,7 +96,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1195" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1195" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -106,7 +106,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1190" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1190" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -116,7 +116,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1185" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1185" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -126,7 +126,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1205" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1205" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -136,7 +136,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1210" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1210" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -146,7 +146,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1480" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1480" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -156,7 +156,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1475" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1475" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -166,7 +166,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1340" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1340" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -176,7 +176,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1395" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1395" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -186,7 +186,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1335" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1335" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -196,7 +196,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1390" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1390" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -206,7 +206,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1370" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1370" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -216,7 +216,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1425" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1425" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -226,7 +226,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1775" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1775" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -236,7 +236,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2020" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2020" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -246,7 +246,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2015" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2015" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -256,7 +256,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1355" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1355" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -266,7 +266,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1410" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1410" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -276,7 +276,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1805" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1805" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -286,7 +286,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1750" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1750" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -296,7 +296,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1365" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1365" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -306,7 +306,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1420" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1420" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -316,7 +316,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1345" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1345" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -326,7 +326,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1400" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1400" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -336,7 +336,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1360" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1360" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -346,7 +346,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1415" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1415" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -356,7 +356,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1850" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1850" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -366,7 +366,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1840" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1840" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -376,7 +376,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1845" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1845" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -386,7 +386,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1835" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1835" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -396,7 +396,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1350" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1350" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -406,7 +406,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1405" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1405" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -416,7 +416,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1470" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1470" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -426,7 +426,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1455" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1455" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -436,7 +436,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1450" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1450" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -446,7 +446,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1315" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1315" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -456,7 +456,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1320" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1320" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -466,7 +466,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1440" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1440" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -476,7 +476,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1465" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1465" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -486,7 +486,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1445" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1445" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -496,7 +496,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1460" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1460" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -506,7 +506,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1435" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1435" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -516,7 +516,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1325" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1325" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -526,7 +526,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1380" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1380" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -536,7 +536,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1330" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1330" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -546,7 +546,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1385" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1385" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -556,7 +556,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1800" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1800" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -566,7 +566,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2033" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2033" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -576,7 +576,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1255" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1255" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -586,7 +586,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1260" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1260" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -596,7 +596,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1295" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1295" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -606,7 +606,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1300" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1300" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -616,7 +616,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1305" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1305" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -626,7 +626,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1310" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1310" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -636,7 +636,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1285" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1285" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -646,7 +646,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1290" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1290" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -656,7 +656,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1275" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1275" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -666,7 +666,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1280" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1280" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -676,7 +676,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1265" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1265" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -686,7 +686,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1270" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1270" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -696,7 +696,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1500" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1500" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -706,7 +706,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1495" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1495" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -716,7 +716,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1530" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1530" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -726,7 +726,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1515" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1515" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -736,7 +736,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1525" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1525" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -746,7 +746,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1505" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1505" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -756,7 +756,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1520" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1520" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -766,7 +766,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1510" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1510" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -776,7 +776,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1485" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1485" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -786,7 +786,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1490" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1490" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -796,7 +796,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1535" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1535" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -806,7 +806,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1555" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1555" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -816,7 +816,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1610" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1610" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -826,7 +826,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1550" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1550" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -836,7 +836,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1605" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1605" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -846,7 +846,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1585" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1585" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -856,7 +856,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1640" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1640" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -866,7 +866,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1570" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1570" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -876,7 +876,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1625" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1625" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -886,7 +886,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1580" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1580" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -896,7 +896,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1635" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1635" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -906,7 +906,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1560" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1560" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -916,7 +916,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1615" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1615" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -926,7 +926,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1575" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1575" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -936,7 +936,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1630" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1630" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -946,7 +946,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1565" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1565" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -956,7 +956,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1620" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1620" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -966,7 +966,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1540" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1540" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -976,7 +976,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1595" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1595" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -986,7 +986,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1545" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1545" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -996,7 +996,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1600" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1600" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1006,7 +1006,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1590" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1590" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1016,7 +1016,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1645" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1645" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1026,7 +1026,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1670" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1670" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1036,7 +1036,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1675" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1675" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1046,7 +1046,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1680" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1680" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1056,7 +1056,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1685" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1685" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1066,7 +1066,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1660" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1660" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1076,7 +1076,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1650" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1650" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1086,7 +1086,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1665" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1665" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1096,7 +1096,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1655" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1655" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1106,7 +1106,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2038" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2038" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1116,7 +1116,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1375" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1375" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1126,7 +1126,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1430" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1430" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1136,7 +1136,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1755" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1755" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1146,7 +1146,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1880" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1880" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1156,7 +1156,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1700" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1700" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1166,7 +1166,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2000" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2000" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1176,7 +1176,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2005" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2005" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1186,7 +1186,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1995" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1995" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1196,7 +1196,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2010" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2010" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1206,7 +1206,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1970" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1970" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1216,7 +1216,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1875" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1875" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1226,7 +1226,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1915" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1915" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1236,7 +1236,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1890" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1890" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1246,7 +1246,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1910" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1910" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1256,7 +1256,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1935" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1935" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1266,7 +1266,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1925" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1925" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1276,7 +1276,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1950" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1950" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1286,7 +1286,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1960" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1960" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1296,7 +1296,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1855" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1855" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1306,7 +1306,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1865" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1865" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1316,7 +1316,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1860" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1860" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1326,7 +1326,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1870" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1870" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1336,7 +1336,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1885" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1885" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1346,7 +1346,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1900" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1900" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1356,7 +1356,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1920" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1920" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1366,7 +1366,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1940" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1940" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1376,7 +1376,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1945" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1945" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1386,7 +1386,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1955" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1955" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1396,7 +1396,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1965" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1965" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1406,7 +1406,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1895" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1895" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1416,7 +1416,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1930" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1930" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1426,7 +1426,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1905" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1905" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1436,7 +1436,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1975" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1975" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1446,7 +1446,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1980" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1980" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1456,7 +1456,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1985" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1985" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1466,7 +1466,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1990" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1990" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1476,7 +1476,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1795" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1795" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1486,7 +1486,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1815" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1815" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1496,7 +1496,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1810" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1810" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1506,7 +1506,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1820" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1820" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1516,7 +1516,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1770" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1770" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1526,7 +1526,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1830" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1830" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1536,7 +1536,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1825" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1825" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1546,7 +1546,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1765" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1765" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1556,7 +1556,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1760" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1760" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1566,7 +1566,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1790" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1790" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1576,7 +1576,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1780" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1780" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1586,7 +1586,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1785" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1785" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1596,7 +1596,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L2028" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L2028" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1606,7 +1606,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1710" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1710" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1616,7 +1616,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1730" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1730" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1626,7 +1626,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1740" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1740" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1636,7 +1636,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1735" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1735" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1646,7 +1646,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1715" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1715" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1656,7 +1656,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1720" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1720" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1666,7 +1666,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1725" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1725" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1676,7 +1676,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1705" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1705" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1686,7 +1686,7 @@
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1745" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1745" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1701,7 +1701,7 @@ WPIPinAlt
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L446-L450" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L446-L450" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1716,7 +1716,7 @@ WPIPinType
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L354-L358" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L354-L358" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1731,7 +1731,7 @@ wiringPiNodeStruct
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L298-L302" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L298-L302" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1746,7 +1746,7 @@ GetPiRevisionLegacy(line, linelength, revision)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L991-L995" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L991-L995" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1761,7 +1761,7 @@ ads1115Setup(pinBase, i2cAddress)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L19-L23" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L19-L23" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1776,7 +1776,7 @@ analogRead(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L559-L563" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L559-L563" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1791,7 +1791,7 @@ analogWrite(pin, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L568-L572" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L568-L572" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1806,7 +1806,7 @@ bmp180Setup(pinBase)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L28-L32" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L28-L32" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1821,7 +1821,7 @@ delay(howLong)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L838-L842" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L838-L842" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1836,7 +1836,7 @@ delayMicroseconds(howLong)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L847-L851" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L847-L851" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1851,7 +1851,7 @@ digitalRead(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L514-L518" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L514-L518" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1866,7 +1866,7 @@ digitalRead8(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L532-L536" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L532-L536" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1881,7 +1881,7 @@ digitalReadByte()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L730-L734" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L730-L734" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1896,7 +1896,7 @@ digitalReadByte2()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L739-L743" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L739-L743" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1911,7 +1911,7 @@ digitalWrite(pin, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L523-L527" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L523-L527" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1926,7 +1926,7 @@ digitalWrite8(pin, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L541-L545" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L541-L545" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1941,7 +1941,7 @@ digitalWriteByte(value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L748-L752" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L748-L752" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1956,7 +1956,7 @@ digitalWriteByte2(value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L757-L761" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L757-L761" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1971,7 +1971,7 @@ drcSetupNet(pinBase, numPins, ipAddress, port, password)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L37-L41" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L37-L41" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -1986,7 +1986,7 @@ drcSetupSerial(pinBase, numPins, device, baud)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L46-L50" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L46-L50" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2001,7 +2001,7 @@ ds18b20Setup(pinBase, serialNum)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L55-L59" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L55-L59" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2016,7 +2016,7 @@ getAlt(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L676-L680" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L676-L680" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2031,7 +2031,7 @@ getPinModeAlt(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L487-L491" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L487-L491" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2046,7 +2046,7 @@ gpioClockSet(pin, freq)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L721-L725" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L721-L725" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2061,7 +2061,7 @@ htu21dSetup(pinBase)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L64-L68" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L64-L68" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2076,7 +2076,7 @@ loadWPiExtension(progName, extensionData, verbose)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1176-L1180" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1176-L1180" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2091,7 +2091,7 @@ max31855Setup(pinBase, spiChannel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L73-L77" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L73-L77" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2106,7 +2106,7 @@ max5322Setup(pinBase, spiChannel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L82-L86" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L82-L86" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2121,7 +2121,7 @@ mcp23008Setup(pinBase, i2cAddress)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L91-L95" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L91-L95" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2136,7 +2136,7 @@ mcp23016Setup(pinBase, i2cAddress)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L100-L104" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L100-L104" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2151,7 +2151,7 @@ mcp23017Setup(pinBase, i2cAddress)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L109-L113" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L109-L113" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2166,7 +2166,7 @@ mcp23s08Setup(pinBase, spiPort, devId)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L118-L122" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L118-L122" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2181,7 +2181,7 @@ mcp23s17Setup(pinBase, spiPort, devId)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L127-L131" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L127-L131" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2196,7 +2196,7 @@ mcp3002Setup(pinBase, spiChannel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L136-L140" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L136-L140" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2211,7 +2211,7 @@ mcp3004Setup(pinBase, spiChannel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L145-L149" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L145-L149" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2226,7 +2226,7 @@ mcp3422Setup(pinBase, i2cAddress, sampleRate, gain)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L154-L158" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L154-L158" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2241,7 +2241,7 @@ mcp4802Setup(pinBase, spiChannel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L163-L167" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L163-L167" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2256,7 +2256,7 @@ micros()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L865-L869" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L865-L869" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2271,7 +2271,7 @@ millis()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L856-L860" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L856-L860" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2286,7 +2286,7 @@ pcf8574Setup(pinBase, i2cAddress)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L172-L176" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L172-L176" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2301,7 +2301,7 @@ pcf8591Setup(pinBase, i2cAddress)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L181-L185" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L181-L185" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2316,7 +2316,7 @@ physPinToGpio(physPin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L649-L653" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L649-L653" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2331,7 +2331,7 @@ piBoard40Pin()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L622-L626" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L622-L626" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2346,7 +2346,7 @@ piBoardId(model, rev, mem, maker, overVolted)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L613-L617" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L613-L617" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2361,7 +2361,7 @@ piBoardRev()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L604-L608" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L604-L608" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2376,7 +2376,7 @@ piGpioLayout()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L595-L599" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L595-L599" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2391,7 +2391,7 @@ piGpioLayoutOops(why)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L321-L325" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L321-L325" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2406,7 +2406,7 @@ piHiPri(pri)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L829-L833" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L829-L833" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2421,7 +2421,7 @@ piLock(key)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L811-L815" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L811-L815" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2436,7 +2436,7 @@ piMicros64()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L874-L878" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L874-L878" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2451,7 +2451,7 @@ piRP1Model()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L631-L635" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L631-L635" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2466,7 +2466,7 @@ piThreadCreate(fn)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L802-L806" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L802-L806" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2481,7 +2481,7 @@ piUnlock(key)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L820-L824" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L820-L824" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2496,7 +2496,7 @@ pinMode(pin, mode)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L496-L500" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L496-L500" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2511,7 +2511,7 @@ pinModeAlt(pin, mode)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L478-L482" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L478-L482" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2526,7 +2526,7 @@ pseudoPinsSetup(pinBase)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L190-L194" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L190-L194" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2541,7 +2541,7 @@ pullUpDnControl(pin, pud)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L505-L509" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L505-L509" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2556,7 +2556,7 @@ pwmSetClock(divisor)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L712-L716" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L712-L716" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2571,7 +2571,7 @@ pwmSetMode(mode)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L694-L698" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L694-L698" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2586,7 +2586,7 @@ pwmSetRange(range)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L703-L707" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L703-L707" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2601,7 +2601,7 @@ pwmToneWrite(pin, freq)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L685-L689" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L685-L689" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2616,7 +2616,7 @@ pwmWrite(pin, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L550-L554" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L550-L554" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2631,7 +2631,7 @@ rht03Setup(pinBase, devicePin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L199-L203" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L199-L203" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2646,7 +2646,7 @@ serialClose(fd)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1099-L1103" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1099-L1103" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2661,7 +2661,7 @@ serialDataAvail(fd)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1140-L1144" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1140-L1144" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2676,7 +2676,7 @@ serialFlush(fd)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1108-L1112" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1108-L1112" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2691,7 +2691,7 @@ serialGetchar(fd)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1149-L1153" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1149-L1153" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2706,7 +2706,7 @@ serialOpen(device, baud)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1090-L1094" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1090-L1094" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2721,7 +2721,7 @@ serialPutchar(fd, c)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1117-L1121" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1117-L1121" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2736,7 +2736,7 @@ serialPuts(fd, s)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1126-L1130" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1126-L1130" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2751,7 +2751,7 @@ setPadDrive(group, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L658-L662" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L658-L662" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2766,7 +2766,7 @@ setPadDrivePin(pin, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L667-L671" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L667-L671" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2781,7 +2781,7 @@ shiftIn(dPin, cPin, order)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1158-L1162" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1158-L1162" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2796,7 +2796,7 @@ shiftOut(dPin, cPin, order, val)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1167-L1171" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1167-L1171" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2811,7 +2811,7 @@ sn3218Setup(pinBase)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L208-L212" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L208-L212" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2826,7 +2826,7 @@ softPwmCreate(pin, value, range)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L217-L221" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L217-L221" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2841,7 +2841,7 @@ softPwmStop(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L235-L239" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L235-L239" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2856,7 +2856,7 @@ softPwmWrite(pin, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L226-L230" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L226-L230" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2871,7 +2871,7 @@ softServoSetup(p0, p1, p2, p3, p4, p5, p6, p7)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L253-L257" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L253-L257" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2886,7 +2886,7 @@ softServoWrite(pin, value)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L244-L248" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L244-L248" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2901,7 +2901,7 @@ softToneCreate(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L262-L266" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L262-L266" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2916,7 +2916,7 @@ softToneStop(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L271-L275" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L271-L275" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2931,7 +2931,7 @@ softToneWrite(pin, freq)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L280-L284" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L280-L284" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2946,7 +2946,7 @@ sr595Setup(pinBase, numPins, dataPin, clockPin, latchPin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L289-L293" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L289-L293" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2961,7 +2961,7 @@ waitForInterrupt(pin, mS)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L766-L770" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L766-L770" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2976,7 +2976,7 @@ waitForInterruptClose(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L793-L797" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L793-L797" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -2991,7 +2991,7 @@ wiringPiFindNode(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L336-L340" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L336-L340" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3006,7 +3006,7 @@ wiringPiGlobalMemoryAccess()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L374-L378" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L374-L378" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3021,7 +3021,7 @@ wiringPiGpioDeviceGetFd()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L469-L473" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L469-L473" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3036,7 +3036,7 @@ wiringPiI2CRawRead(fd, values, size)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L919-L923" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L919-L923" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3051,7 +3051,7 @@ wiringPiI2CRawWrite(fd, values, size)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L964-L968" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L964-L968" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3066,7 +3066,7 @@ wiringPiI2CRead(fd)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L883-L887" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L883-L887" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3081,7 +3081,7 @@ wiringPiI2CReadBlockData(fd, reg, values, size)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L910-L914" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L910-L914" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3096,7 +3096,7 @@ wiringPiI2CReadReg16(fd, reg)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L901-L905" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L901-L905" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3111,7 +3111,7 @@ wiringPiI2CReadReg8(fd, reg)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L892-L896" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L892-L896" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3126,7 +3126,7 @@ wiringPiI2CSetup(devId)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L982-L986" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L982-L986" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3141,7 +3141,7 @@ wiringPiI2CSetupInterface(device, devId)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L973-L977" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L973-L977" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3156,7 +3156,7 @@ wiringPiI2CWrite(fd, data)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L928-L932" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L928-L932" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3171,7 +3171,7 @@ wiringPiI2CWriteBlockData(fd, reg, values, size)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L955-L959" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L955-L959" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3186,7 +3186,7 @@ wiringPiI2CWriteReg16(fd, reg, data)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L946-L950" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L946-L950" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3201,7 +3201,7 @@ wiringPiI2CWriteReg8(fd, reg, data)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L937-L941" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L937-L941" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3216,7 +3216,7 @@ wiringPiISR(pin, mode, _function)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L775-L779" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L775-L779" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3231,7 +3231,7 @@ wiringPiISRStop(pin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L784-L788" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L784-L788" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3246,7 +3246,7 @@ wiringPiNewNode(pinBase, numPins)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L345-L349" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L345-L349" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3261,7 +3261,7 @@ wiringPiSPIClose(channel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1036-L1040" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1036-L1040" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3276,7 +3276,7 @@ wiringPiSPIDataRW(channel, data, len)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1009-L1013" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1009-L1013" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3291,7 +3291,7 @@ wiringPiSPIGetFd(channel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1000-L1004" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1000-L1004" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3306,7 +3306,7 @@ wiringPiSPISetup(channel, speed)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1027-L1031" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1027-L1031" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3321,7 +3321,7 @@ wiringPiSPISetupMode(channel, speed, mode)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1018-L1022" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1018-L1022" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3336,7 +3336,7 @@ wiringPiSPIxClose(number, channel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1081-L1085" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1081-L1085" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3351,7 +3351,7 @@ wiringPiSPIxDataRW(number, channel, data, len)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1054-L1058" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1054-L1058" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3366,7 +3366,7 @@ wiringPiSPIxGetFd(number, channel)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1045-L1049" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1045-L1049" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3381,7 +3381,7 @@ wiringPiSPIxSetup(number, channel, speed)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1072-L1076" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1072-L1076" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3396,7 +3396,7 @@ wiringPiSPIxSetupMode(number, channel, speed, mode)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L1063-L1067" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L1063-L1067" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3411,7 +3411,7 @@ wiringPiSetup()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L392-L396" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L392-L396" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3426,7 +3426,7 @@ wiringPiSetupGpio()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L410-L414" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L410-L414" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3441,7 +3441,7 @@ wiringPiSetupGpioDevice(pinType)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L437-L441" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L437-L441" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3456,7 +3456,7 @@ wiringPiSetupPhys()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L419-L423" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L419-L423" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3471,7 +3471,7 @@ wiringPiSetupPiFace()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L577-L581" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L577-L581" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3486,7 +3486,7 @@ wiringPiSetupPiFaceForGpioProg()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L586-L590" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L586-L590" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3501,7 +3501,7 @@ wiringPiSetupPinType(pinType)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L428-L432" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L428-L432" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3516,7 +3516,7 @@ wiringPiSetupSys()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L401-L405" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L401-L405" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3531,7 +3531,7 @@ wiringPiUserLevelAccess()
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L383-L387" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L383-L387" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3546,7 +3546,7 @@ wiringPiVersion(major, minor)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L365-L369" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L365-L369" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
@@ -3561,7 +3561,7 @@ wpiPinToGpio(wpiPin)
 
 
 
-<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/47d39cb42f700df6019b4d9d1fc9e3ec5b6832f7/src/WiringPi.jl#L640-L644" target="_blank" rel="noreferrer">source</a></Badge>
+<Badge type="info" class="source-link" text="source"><a href="https://github.com/stensmo/WiringPi.jl/blob/038afb5de47fa39aabcaf20869a91a5c9a846a99/src/WiringPi.jl#L640-L644" target="_blank" rel="noreferrer">source</a></Badge>
 
 </details>
 
