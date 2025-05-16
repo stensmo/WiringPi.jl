@@ -76,7 +76,7 @@ sentData == myData
 Full example where WiringPi is driving an e-paper display, and draws a diagram using Makie. Can also be used for displaying SVG.
 
 
-[WiringPi.jl drive an e-paper display ](https://github.com/stensmo/WiringPi.jl/tree/main/examples)
+[WiringPi.jl drive an e-paper display ](https://github.com/stensmo/WiringPi.jl/tree/main/docs/examples)
 
 data acquisition examples is coming soon 
 
