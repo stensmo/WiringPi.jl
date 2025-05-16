@@ -1,5 +1,7 @@
 # WiringPi in Julia 
 
+Raspberry Pi 5 support for GPIO, SPI, I2C (will also work on older models)
+
 **NOTE:** You must run Julia as root (or fiddle with permissions), to allow direct memory acces to GPIO. 
 
 **NOTE:** More documentation can be found at  https://github.com/WiringPi/WiringPi/
