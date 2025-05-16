@@ -2041,10 +2041,10 @@ $(_doc_external(:MSBFIRST))
 const MSBFIRST = 1
 
 # exports
-excludes =  [Symbol(:eval), Symbol(:include), Symbol("#eval"), Symbol("#include")]
+excludes =  [Symbol(:eval), Symbol(:include)]
 # exports
 for name in names(@__MODULE__; all=true)
-    if name ∉ excludes     
+    if name ∉ excludes && !startswith(string(name), "#")
         @eval export $name
     end
 end
