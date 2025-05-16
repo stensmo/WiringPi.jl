@@ -3,6 +3,10 @@ module WiringPi
 using WiringPi_jll
 export WiringPi_jll
 
+function _doc_external(fname)
+    return ""
+end
+
 if WiringPi_jll.is_available()
     const libwiringPi = WiringPi_jll.wiringPi
 end
@@ -1686,15 +1690,7 @@ const MCP3422_GAIN_8 = 3
 """
 $(_doc_external(:__WIRING_PI_H__))
 """
-"""
-$(_doc_external(:TRUE))
-"""
-const TRUE = 1 == 1
 
-"""
-$(_doc_external(:FALSE))
-"""
-const FALSE = !TRUE
 
 """
 $(_doc_external(:UNU))
@@ -2026,12 +2022,7 @@ $(_doc_external(:GPIO_LAYOUT_DEFAULT))
 """
 const GPIO_LAYOUT_DEFAULT = 2
 
-"""
-$(_doc_external(:PI_THREAD))
-"""
-"""
-$(_doc_external(:WPI_FATAL))
-"""
+
 const WPI_FATAL = 1 == 1
 
 """
