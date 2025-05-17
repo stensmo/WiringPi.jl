@@ -29,7 +29,7 @@ value = digitalRead(17)
 
 
 ```
-
+Data acquisition
 ```julia
 # Connect an ADS1115 to the I2C bus (several more chips are supported)
 using WiringPi
