@@ -28,8 +28,26 @@ pullUpDnControl(17, PUD_DOWN);
 value = digitalRead(17)
 
 
+```
+
+```julia
+# Connect an ADS1115 to the I2C bus (several more chips are supported)
+using WiringPi
+
+#Pin base is where the virtual pins should start (4 of them for an ADS1115). This is almost like a variable name
+pinBase=100
+i2cAddress=0x48 # Default for ADS1115
+ads1115Setup(pinBase, i2cAddress)
+
+
+value1 = analogRead(100)
+value2 = analogRead(101)
+value3 = analogRead(102)
+value4 = analogRead(103)
+
 
 ```
+
 
 Working with interrupts:
 ```julia
