@@ -39,6 +39,12 @@ pinBase=100
 i2cAddress=0x48 # Default for ADS1115
 ads1115Setup(pinBase, i2cAddress)
 
+#Sets gain to ADS gain 1
+digitalWrite(100, ADS1115_GAIN_6)
+
+#Sets data rate
+digitalWrite(101, ADS1115_DR_64)
+
 
 value1 = analogRead(100)
 value2 = analogRead(101)
