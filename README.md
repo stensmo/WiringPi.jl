@@ -98,5 +98,5 @@ Full example where WiringPi is driving an e-paper display, and draws a diagram u
 
 [WiringPi.jl drive an e-paper display ](https://github.com/stensmo/WiringPi.jl/tree/main/docs/examples)
 
-data acquisition examples is coming soon 
+
 
