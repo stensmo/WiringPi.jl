@@ -13,7 +13,7 @@ Install Julia by running: curl -fsSL https://install.julialang.org | sh
 
 Run julia by typing: sudo $HOME/.juliaup/bin/julia
 
-It's even possible to generate some  code via Gemini (Google AI Studio). Example prompt: "Generate julia code: Draw image on SSH1106 connected to a Raspberry Pi 5 using WiringPi.jl"
+It's even possible to generate code via Gemini (Google AI Studio). Example prompt: "Generate julia code: Draw image on SSH1106 connected to a Raspberry Pi 5 using WiringPi.jl"
 
 Examples:
 ```julia
