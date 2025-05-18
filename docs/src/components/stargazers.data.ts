@@ -1,4 +1,4 @@
-const REPO = "stensmo/SFTPClient.jl";
+const REPO = "stensmo/WiringPi.jl";
 
 export default {
   async load() {
