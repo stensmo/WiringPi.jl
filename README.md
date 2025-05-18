@@ -51,6 +51,11 @@ value2 = analogRead(101)
 value3 = analogRead(102)
 value4 = analogRead(103)
 
+voltages=[6.144,4.096,2.048,1.024,0.512,0.256]
+
+# ADS1115_GAIN_6 = 6.144 volt
+volt1=(value1/32767)*voltages[ADS1115_GAIN_6+ 1 ]
+
 
 ```
 
