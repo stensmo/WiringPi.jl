@@ -1,4 +1,4 @@
-# SFTPClient API Documentation
+# WiringPi API Documentation
 
 ```@autodocs
 Modules = [WiringPi]
